@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\hsets\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.linting.pylintPath": "C:\\Users\\hsets\\Desktop\\env\\Scripts\\pylint",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+      ]
+      
+}
